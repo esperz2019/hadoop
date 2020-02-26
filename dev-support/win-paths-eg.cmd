@@ -40,7 +40,7 @@ SET MAVEN_OPTS=-Dmaven.repo.local=C:\Tools\m2
 
 @REM SET MAVEN_HOME=C:\Tools\apache-maven-3.5.0
 @REM SET JAVA_HOME=C:\Tools\jdk
-SET MSVS=C:\Program Files (x86)\Microsoft Visual Studio 12.0
+SET MSVS=C:\Program Files (x86)\Microsoft Visual Studio 14.0
 SET PROTO_BIN=C:\Tools\protobuf-2.5.0
 @REM SET GIT_HOME=C:\Program Files\Git
 
